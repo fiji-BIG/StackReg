@@ -17,6 +17,30 @@
 
 	<name>plugins/StackReg_.jar</name>
 	<description></description>
+	<url>http://fiji.sc/StackReg</url>
+	<inceptionYear>2010</inceptionYear>
+
+	<licenses>
+		<license>
+			<name>BIG</name>
+			<url>http://fiji.sc/BIG_License</url>
+			<distribution>repo</distribution>
+			<comments>Not an OSS license!</comments>
+		</license>
+	</licenses>
+
+	<developers>
+		<developer>
+			<name>Philippe Thevenaz</name>
+			<url>http://bigwww.epfl.ch/thevenaz/</url>
+			<organization>Biomedical Imaging Group, EPFL</organization>
+			<organizationUrl>http://bigwww.epfl.ch/</organizationUrl>
+			<roles>
+				<role>developer</role>
+			</roles>
+			<timezone>+1</timezone>
+		</developer>
+	</developers>
 
 	<scm>
 		<connection>scm:git:git://github.com/fiji/StackReg</connection>
